@@ -1,0 +1,5 @@
+.ui-state-active, .ui-widget-content .ui-state-active {
+  /*any CSS styles you want overriden i.e.*/
+  border: 1px solid #999999;
+  background-color: #EEEEEE;
+}
